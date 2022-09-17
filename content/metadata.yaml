@@ -1,5 +1,5 @@
 ---
-title: "The Effects of Nonlinear Signal on Expression-Based Prediction Performance"
+title: "The Effect of Nonlinear Signal in Classification Problems using Gene Expression"
 keywords:
   - machine learning
   - transcriptomics
@@ -40,3 +40,4 @@ authors:
     funders:
       - The Gordon and Betty Moore Foundation (GBMF4552)
       - The National Human Genome Research Institute (R01 HG10067)
+    corresponding: true
